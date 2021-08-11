@@ -1,2 +1,2 @@
-# Flight-Fare
+# Flight Fare Prediction
 Working with data
